@@ -1,5 +1,5 @@
 # linkify-crash
-Sample project for demo an issue with Linkify
+Sample project for demo an [issue](https://issuetracker.google.com/issues/140250791) with Linkify
 
 When autoLink property is set to "all" and I set an address with unicode characters it crashes. 
 
